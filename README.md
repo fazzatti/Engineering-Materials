@@ -1,6 +1,13 @@
 
 # Engineering Materials
 
+To properly edit, visualize and navigate the .md files, access this repository locally with [Obsidian.md](https://obsidian.md/). Also refer to the links below for useful Obsidian materials:
+
+- [Help Knowledge Base](https://help.obsidian.md/Obsidian/Index)
+- [Obsidian's basic syntax](https://help.obsidian.md/How+to/Format+your+notes)
+
+
+---
 
 ## Achitectural Patterns and Design
 
