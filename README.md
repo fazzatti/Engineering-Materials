@@ -23,12 +23,12 @@ To properly edit, visualize and navigate the .md files, access this repository l
 
 ## Database Structures
 - [[Database Normalization]]
-- 
+-
 
 
 ## Design Patterns
-[Source Making - Design Patterns](https://sourcemaking.com/design_patterns)
-[Design Patterns in Plain English | Mosh Hamedani (Video)](https://www.youtube.com/watch?v=NU_1StN5Tkk)
+- [Source Making - Design Patterns](https://sourcemaking.com/design_patterns)
+- [Design Patterns in Plain English | Mosh Hamedani (Video)](https://www.youtube.com/watch?v=NU_1StN5Tkk)
 
 ### Creational Patterns
 - [Source Making - Creational Patterns](https://sourcemaking.com/design_patterns/creational_patterns)
