@@ -29,6 +29,7 @@ To properly edit, visualize and navigate the .md files, access this repository l
 ## Design Patterns
 - [Source Making - Design Patterns](https://sourcemaking.com/design_patterns)
 - [Design Patterns in Plain English | Mosh Hamedani (Video)](https://www.youtube.com/watch?v=NU_1StN5Tkk)
+- [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 ### Creational Patterns
 - [Source Making - Creational Patterns](https://sourcemaking.com/design_patterns/creational_patterns)
