@@ -1,0 +1,1 @@
+- [Wiki - Database Normalization](https://en.wikipedia.org/wiki/Database_normalization)
