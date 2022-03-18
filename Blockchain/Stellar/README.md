@@ -4,7 +4,7 @@
 
 ## Internal Resources
 
-- [Crypto introduction session(18/11/2021)](https://drive.google.com/file/d/1k9ui0oh3c6uyZAVbCNyvoI7eaFhNdBx8/view?usp=sharing)
+- [Crypto introduction session(18/11/2021) - 61min ](https://drive.google.com/file/d/1k9ui0oh3c6uyZAVbCNyvoI7eaFhNdBx8/view?usp=sharing)
   
 - [Internal Doc Compilation](https://www.notion.so/Knowledge-Sources-134818126ddb486a8ed95ed66c8b8b22): Compilation of several documents and videos about blockchain and the stellar network.
 
